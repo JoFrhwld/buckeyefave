@@ -1,0 +1,11 @@
+--outputFormat
+txt
+--formantPredictionMethod
+mahalanobis
+--measurementPointMethod
+faav
+--remeasure
+--tracks
+--vowelSystem
+NorthAmerican
+--mfa
