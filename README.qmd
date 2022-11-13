@@ -1,0 +1,29 @@
+---
+format: gfm
+---
+
+# `buckeyefave`
+
+This is a data package containing the output of running the 
+Montreal Forced Aligner and FAVE-extract on the Buckeye Corpus.
+
+## Installation:
+
+```r
+remotes::install_github("jofrhwld/buckeyefave")
+```
+
+Or, if using `renv`
+
+```r
+renv::install("jofrhwld/buckeyefave")
+```
+
+## Usage
+
+```{r}
+#| message: false
+library(buckeyefave)
+library(dplyr)
+glimpse(buckeye_points)
+```
