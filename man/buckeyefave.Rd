@@ -13,6 +13,6 @@ and doing formant extraction with \href{https://github.com/joFrhwld/FAVE/}{FAVE}
 \references{
 Pitt, M.A., Dilley, L., Johnson, K., Kiesling, S., Raymond, W., Hume, E.
 and Fosler-Lussier, E. (2007) Buckeye Corpus of Conversational Speech
-(2nd release) \link{www.buckeyecorpus.osu.edu} Columbus, OH: Department of
+(2nd release) \url{www.buckeyecorpus.osu.edu} Columbus, OH: Department of
 Psychology, Ohio State University (Distributor).
 }
